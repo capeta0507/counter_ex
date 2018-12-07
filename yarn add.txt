@@ -1,0 +1,4 @@
+¥Îyarn ¦w¸Ëredux
+
+yarn add redux --save
+yarn add react-redux --save

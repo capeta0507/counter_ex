@@ -1,0 +1,27 @@
+.main_bg{
+    padding: 50px;
+    background-color: rgb(177, 247, 170);
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+button{
+    font-size: 1em;
+    width: 30px;
+    height: 30px;
+    font-family: sans-serif;
+    color: #333;
+    font-weight: bold;
+    line-height: 3px;
+
+}
+.count{
+    font-size: 72px;
+    font-family: sans-serif;
+    color: rgb(107, 41, 41);
+    font-weight: bold;
+}
