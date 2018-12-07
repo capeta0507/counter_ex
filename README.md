@@ -2,7 +2,7 @@
 ###### tags: `React` `Redux` `JavaScript`
 
 以下是3種數字遞增遞減的範例
-1. HTML + JS 範例
+1. HTML + JS 範例 /ex01 資料夾
 ```javascript=
 <!DOCTYPE html>
 <html lang="en">
@@ -37,7 +37,7 @@
 </script>
 </html>
 ```
-2. React 範例
+2. React 範例  /ex02 資料夾
 ```javascript=
 class Main extends Component {
     constructor(props){
@@ -74,7 +74,7 @@ class Main extends Component {
   }
 }
 ```
-3. React + Redux 範例
+3. React + Redux 範例 /ex03 資料夾
 ```javascript=
 let reducer = function (state,action) { 
     // console.log("Reducer ...");
